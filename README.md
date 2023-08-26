@@ -1,1 +1,1 @@
-# GQT-Java-Training
+# Practice
